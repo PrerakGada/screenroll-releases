@@ -1,0 +1,16 @@
+{
+  "version": "0.1.0",
+  "build": "1",
+  "channel": "alpha.1",
+  "bundleIdentifier": "com.engaze.screenroll",
+  "minimumSystemVersion": "26.0",
+  "releaseTag": "v0.1.0",
+  "releaseTitle": "Screenroll 0.1.0 (alpha)",
+  "releasesRepository": "PrerakGada/screenroll-releases",
+  "homebrewVersion": "0.1.0",
+  "cask": "screenroll",
+  "assets": {
+    "dmg": "Screenroll-0.1.0.dmg",
+    "zip": "Screenroll-0.1.0.zip"
+  }
+}
