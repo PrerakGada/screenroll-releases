@@ -8,12 +8,13 @@ This repository only holds the signed downloads. Website: <https://screenroll.pr
 
 ## This is an alpha
 
-Screenroll 0.1.2 is the third alpha. It is signed and notarized by Apple and passes its own automated checks,
+Screenroll 0.1.3 is the fourth alpha. It is signed and notarized by Apple and passes its own automated checks,
 but capturing and recording the real screen have had very little use so far. Expect rough edges, and keep a
 second copy of anything you cannot lose. There is no in-app updater yet: update with `brew upgrade --cask screenroll`
 or the newest disk image.
 
-New in 0.1.2: **Report a Problem…** and **Send Feedback…**, in the menu-bar menu, the Help menu and Settings › About.
+New in 0.1.3: **⇧⌘5 asks what you want to do first**: capture or record the whole screen, a window or an area. And a new look,
+**Bracket Pal**: a simple flat app icon and a menu-bar icon drawn for its real size.
 
 ## Requirements
 
@@ -31,7 +32,7 @@ open -a Screenroll
 
 Homebrew also links the `screenroll` command-line tool.
 
-Or [download the DMG](https://github.com/PrerakGada/screenroll-releases/releases/download/v0.1.2/Screenroll-0.1.2.dmg):
+Or [download the DMG](https://github.com/PrerakGada/screenroll-releases/releases/download/v0.1.3/Screenroll-0.1.3.dmg):
 
 1. Open the downloaded disk image.
 2. Drag **Screenroll** onto the **Applications** shortcut.
